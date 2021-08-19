@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.flexBox-r{
+  display: flex;
+}
+.flexBox-c{
+  display: flex;
+  flex-direction: column;
+}
+.flex1{flex: 1;}
+
+.wh100{
+  width: 100%;
+  height: 100%;
+}
+.h100{height: 100%;}
+.posr{position: relative;}
+.border-red{border: 1px solid red;}
+.over-auto{overflow: auto;}
+.centerBox{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+.mg-t30{ margin-top: 30px;}
+.mg-b30{ margin-bottom: 30px;}
+.pd10{padding: 10px;}
