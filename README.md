@@ -7,7 +7,7 @@ vue + vuex + axios + echarts + elementUi
 ```
 
 ## 截图
-<img src="https://github.com/lijiahui-web/vue-echarts/blob/master/src/assets/image/demo1.png"/>
+<img src="https://github.com/banana618859/big-datav-screen/blob/master/src/assets/image/demo1.png"/>
 
 ## Project setup
 ```
